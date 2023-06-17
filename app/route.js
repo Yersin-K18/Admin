@@ -26,6 +26,6 @@ function config($routeProvider) {
       templateUrl:'/app/directive/Product/edit_product.html',
     })
     . when('/addproduct', {
-      templateUrl:'/app/directive/Product/add_product1.html',
+      templateUrl:'/app/directive/Product/add_product.html',
     })
 }]);
