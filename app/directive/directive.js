@@ -1,7 +1,7 @@
 app.directive('loginpage', () => {
     return {
       restrict: 'E',
-      templateUrl: '../app/directive/login/login.html',
+      templateUrl: './app/directive/login/login.html',
       controller: () => {
         console.log('load login');
       },
