@@ -7,7 +7,7 @@ app.controller('UserController', function($scope) {
         {
             id: "1",
             name: "Nguyễn Hồng Phú",
-            images: "/assets/img-anhthe/1.jpg",
+            images: "../assets/img-anhthe/1.jpg",
             diachi: "155-157 Trần Quốc Thảo, Quận 3, Hồ Chí Minh",
             date: "12/02/1999",
             gioitinh: "Nữ",
